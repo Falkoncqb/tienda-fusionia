@@ -8,3 +8,5 @@ footer{justify-content:flex-start;gap:32px;align-items:flex-start}.footer-compan
 .cart-bank-payment{display:block;width:100%;margin:0 0 12px;padding:18px 14px;background:#6950e8;border:1px solid #9e89ff;color:#ffffff;font-family:inherit;font-size:13px;font-weight:800;line-height:1.5;text-align:center;box-shadow:0 0 24px #6950e830;opacity:1;cursor:default}.cart-bank-payment:disabled{color:#ffffff;opacity:1;-webkit-text-fill-color:#ffffff}
 
 @media(max-width:800px){html{scroll-padding-top:150px}body>header{position:sticky;top:0;z-index:15;background:#0c0e0df5;backdrop-filter:blur(14px);box-shadow:0 8px 25px #0005}body>header .cart-trigger{position:relative}.sticky-catalog{top:145px}}
+
+@media(min-width:801px){html{scroll-padding-top:120px}body>header{position:sticky;top:0;z-index:15;background:#0c0e0df5;backdrop-filter:blur(14px);box-shadow:0 8px 25px #0005}.sticky-catalog{top:120px}}
